@@ -1,7 +1,1 @@
-Psedo code: ONLY USING CPU!
-https://support.microsoft.com/en-us/help/2977003/the-latest-supported-visual-c-downloads
-2.2
-conda upgrade --all -y
 
-
-1. Thunder with Spark

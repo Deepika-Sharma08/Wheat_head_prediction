@@ -57,7 +57,7 @@ Specifics:
 
 
 
-![alt text](https://github.com/Deepika-Sharma08/Wheat_head_prediction/blob/master/Input and Annotated.png?raw=true)
+![alt text](https://github.com/Deepika-Sharma08/Wheat_head_prediction/blob/master/Input%20and%20Annotated.png?raw=true)
 
 
 

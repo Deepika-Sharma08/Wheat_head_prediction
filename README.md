@@ -6,7 +6,7 @@ Problem Definition:
 Wheat Head Count using Computer Vision 
 
 
-![alt text](https://github.com/Deepika-Sharma08/Wheat_head_prediction/blob/master/Wheat.png?raw=true)
+![alt text](https://github.com/Deepika-Sharma08/Wheat_head_prediction/blob/master/supporting_images/Wheat.png?raw=true)
 
 
 
@@ -57,7 +57,7 @@ Specifics:
 
 
 
-![alt text](https://github.com/Deepika-Sharma08/Wheat_head_prediction/blob/master/Input%20and%20Annotated.png?raw=true)
+![alt text](https://github.com/Deepika-Sharma08/Wheat_head_prediction/blob/master/supporting_images/Input%20and%20Annotated.png?raw=true)
 
 
 
@@ -89,7 +89,7 @@ Solution Steps:
 
 
 Results:
-![alt text](https://github.com/Deepika-Sharma08/Wheat_head_prediction/blob/master/Prediction.png?raw=true)
+![alt text](https://github.com/Deepika-Sharma08/Wheat_head_prediction/blob/master/supporting_images/Prediction.png?raw=true)
 
 
 
@@ -109,7 +109,7 @@ Results:
 Caveats:
 1. Present model works fine for images where color map is consistent.
 2. Darker images where foreground and background are getting mixed and algorithm is unable to separate the two.
-![alt text](https://github.com/Deepika-Sharma08/Wheat_head_prediction/blob/master/Caveats.png?raw=true)
+![alt text](https://github.com/Deepika-Sharma08/Wheat_head_prediction/blob/master/supporting_images/Caveats.png?raw=true)
 
 
 

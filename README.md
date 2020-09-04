@@ -111,7 +111,7 @@ Results:
 
 Caveats:
 1. Present model works fine for images where color map is consistent.
-2. Darker images where foreground and background are getting mixed and algorithm is unable to separate the two.
+2. Images where wheat head and leaves color is almost same, algorithm is unable to separate the two.
 ![alt text](https://github.com/Deepika-Sharma08/Wheat_head_prediction/blob/master/Caveats.png?raw=true)
 
 

@@ -89,7 +89,7 @@ Solution Steps:
 
 
 Results:
-![alt text](https://github.com/Deepika-Sharma08/Wheat_head_prediction/blob/master/supporting_images/Prediction.png?raw=true)
+![alt text](https://github.com/Deepika-Sharma08/Wheat_head_prediction/blob/master/output.png?raw=true)
 
 
 

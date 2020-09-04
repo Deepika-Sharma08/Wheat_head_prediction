@@ -89,7 +89,10 @@ Solution Steps:
 
 
 Results:
-![alt text](https://github.com/Deepika-Sharma08/Wheat_head_prediction/blob/master/output.png?raw=true)
+![alt text](https://github.com/Deepika-Sharma08/Wheat_head_prediction/blob/master/output1.png?raw=true)
+
+
+![alt text](https://github.com/Deepika-Sharma08/Wheat_head_prediction/blob/master/output2.png?raw=true)
 
 
 
@@ -109,7 +112,7 @@ Results:
 Caveats:
 1. Present model works fine for images where color map is consistent.
 2. Darker images where foreground and background are getting mixed and algorithm is unable to separate the two.
-![alt text](https://github.com/Deepika-Sharma08/Wheat_head_prediction/blob/master/supporting_images/Caveats.png?raw=true)
+![alt text](https://github.com/Deepika-Sharma08/Wheat_head_prediction/blob/master/Caveats.png?raw=true)
 
 
 
